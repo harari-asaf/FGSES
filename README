@@ -1,0 +1,9 @@
+Thank you for reading "Automatic Features Generation and Selection from External Sources - A DBpedia Use Case"
+FGSES is a frame work for automatic feature engineering from DBpedia.
+The main script is FGSES.py.
+
+Before using FGSES you should:
+1. Download DBpedia dumpe and store it in rational DB (the scheme of the DB can be found in ERD.pdf file).
+2. Flag in advance two columns in your dataset D: entities column named 'lookup' and target column named 'target' (or the last column).
+3. Download pre trained  ELMo.
+

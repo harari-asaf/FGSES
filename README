@@ -1,6 +1,7 @@
 This is the official repo of the paper "Automatic Features Generation and Selection from External Sources - A DBpedia Use Case" 
 Link to the full paper: https://www.sciencedirect.com/science/article/abs/pii/S0020025521009671
-FGSES is a frame work for automatic feature engineering from DBpedia.
+
+In this paper we present FGSES, a framework for automatic feature engineering from DBpedia.
 The main script is FGSES.py.
 
 Before using FGSES you should:
